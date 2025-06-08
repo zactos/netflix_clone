@@ -14,6 +14,8 @@ FEATURES
 
 4. Responsive design
 
+
+
 TECH STACK
 
 Frontend: HTML, CSS, JavaScript
